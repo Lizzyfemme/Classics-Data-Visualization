@@ -1,0 +1,120 @@
+Speaker 1 (00:00):
+I'm doing okay. Thank you. How are you, how was your marking? I mean, uninspiring and unexciting really was not a great batch of papers, but like the most left field answer you got, I think my favorite so far was someone claiming that Odysseus making a sacrifice meant that he was desperate for his approval. I liked that one. I think that's one way to phrase it as a pick me girl, essentially.
+
+Speaker 2 (00:42):
+That's probably dangerous.
+
+Speaker 1 (00:45):
+Um, yeah. All right. So I've got questions for you. Uh, do you see us as a, pick me up for this kind of hilarious?
+
+Speaker 1 (00:58):
+You gotta give it to them. Sometimes it has like sparks of brilliancy. I don't think it was intentional, but I really like your wall. Um, paint. Is that a painting? I know it's, it's, it's meant to be a pillowcase actually, but we've we've up on the wall. Yeah. Oh, I've seen the puppy now. Let's do that's his favorite spot? He thinks he's a parent. Um, thank you. So I've got some general questions for you and I I'm hoping it's okay. If I record the session, I'll just, um, makes it easier to, um, to like, so after just for like my own studies and to like figure things out, um, I'll probably just transcribe everything and then take a look and sure, definitely. Yeah. Awesome. Thank you. So, um, so the, these are just in general, so this, I don't know if Zoe's like been talking to you, but we kind of started off on like a, a project and I was like, oh, that sounds cool. Um, I'm a web developer, so, but I just started out. So it's like, I'm just looking for projects that I can kind of practice on a little bit. And I thought that this would be kind of fun. Um, I don't know anything about it cause she's kept it quite secretive, but it sounds exciting.
+
+Speaker 1 (02:30):
+No, it's just, um, um, um, so yeah, I'm just trying to wanting to do something that would kind of allow some like data visualization to happen a little more, um, easily with, um, uh, with classical studies, um, information and records and stuff. So we're just kind of trying to, I'm trying to figure out exactly like what people need and like what, you know, what tools were they not able to find? Um, or like, is there something that was really difficult to do that maybe, um, I could make easier with the power of programming. I
+
+Speaker 3 (03:14):
+Don't know how helpful I'll be.
+
+Speaker 1 (03:16):
+Okay. Um, anything, so I'm just looking for user, the purpose of a user interviews is just for me to like, understand what people do better. Cause I'm not, you know, I'm not a classical studies PhD candidate. I don't know what you guys do. So it's just kind of like, oh, you know, letting me understand, like what, um, yeah, what's going on and what if there's anything I can help with? Um, that's cool for, um, so what, um, what devices do you usually research on? Like what do you use to research your hardware?
+
+Speaker 3 (03:53):
+So my main device is a Mac book. Okay. And I typically use that when, you know, before this all happened, when we were allowed to be in public places, I would use whatever computers were available in the library or in the office, just for the larger screen. Um, but at home, generally in what I take with me, if I'm working, uh, you know, at a coffee shop or something, it's just my laptop. And I have, um, I have a tablet that I use to read articles on just because I find it easier to, um, to sort of take notes. I'm not, I'm part of the generation that was taking notes by hand and I'm really, really bad at typing up notes while they read. So it helps to have something that I can write on even without printing everything out. Um, and I would say those are my two main things.
+
+Speaker 1 (04:43):
+Um, so when you're, um, researching, uh, how do you find like your primary sources?
+
+Speaker 3 (04:52):
+So I usually start off with the main library website, um, and then that's not always necessarily super helpful. It just seems like the most obvious place to start. Um, I use J store quite a bit the for websites cause they have ton of articles. Um, usually the access works well enough. Sometimes it doesn't register that I'm coming in from, uh, from, uh, you know, university or institution. And so it locks me out, but usually it works. Um, I very occasionally use Google scholar, but that's very hit and miss. Um, but those are the, I would say the three main, um, search hindrance that, oh no, wait, I'm forgetting them. The latest addition to my research is when I'm looking at inscriptions. And so I've been using online, um, databases of inscriptions that are usually made by, um, various universities and research institutions. And I would say that's been the bigger, um, learning curve just because I've never, I've never worked with databases before in my previous like academic experience. And so even just figuring out how to work them and what codes work and what, and how the algorithms work is is, is not super intuitive all the time.
+
+Speaker 1 (06:14):
+Um, what, um, which databases do you use?
+
+Speaker 3 (06:20):
+Um, so there's one that's called Eagle. I'm sorry. Let me, um, look it up. I would say the main ones are the equals database and the other one is called Klaus slobby. That's a base. I can spell it out for you if that helps. I don't know.
+
+Speaker 1 (06:38):
+I think I'll be able to find it. Um, okay. What, um, what are some of the challenges that you face when you're accessing, um, uh, information on those databases? Is it just like, you know, difficulty like understanding how databases work or is it just, um,
+
+Speaker 3 (06:58):
+Um, it's I guess one of the challenges is that essentially is that the bases are collecting stuff from a ton of different sources that all each, um, so that each used their own referencing system internally. And a lot of the source of those sources are quite old and like on paper and have like, have been in place since the 19th century or whatnot. So it's figuring out how the modern website is referring to what source, what their codes are. And sometimes the Wiki explains it other times it's not necessarily, um, super available to people. Um, and then once the results, uh, come up, you know, cause they have, there's the option to search through different tags and substrate subtract tags or add in tags for searching. Um, but then once there's that, um, for instance, when the cloud slobby, it becomes a little bit of a hassle to sort of click in dish.
+
+Speaker 3 (07:53):
+You're looking for pictures, for instance, of a certain inscription. It will either open the pictures in an entirely different window, or if you go back, it doesn't take you back to the previous search results. It takes you back to the entire list that you were searching in. So it's not necessarily seamless of a user experience, but it's nothing too tragic. I tried, um, at the very start of my degree, I tried, um, wrapping my head around the, um, this software that I think is called what's called FileMaker. That was for building your own database, but that was far beyond my expertise. And thankfully I didn't end up needing it, but I get the desert base building is, is a lot of work and I tip my hat to you in advance for building resources like that.
+
+Speaker 1 (08:38):
+Um, well I think, I think we'll probably be, um, there's a thing called an API, um, which a lot of websites and databases have that let you take their information. So I might just be like doing some API calls and kind of gathering some stuff, but we'll see. So like stealing from other places
+
+Speaker 3 (08:59):
+I like that. I like that.
+
+Speaker 1 (09:03):
+Um, was there anything that you like data that you knew was there, but you couldn't find, um,
+
+Speaker 3 (09:20):
+I'm trying to think anything that I was trying is this specifically like online resources?
+
+Speaker 1 (09:25):
+Yeah, I'm, I'm sort of, I guess, um, from our perspective, um, uh, it's, it's more of like an online thing that specifically has to do with like data visualization, especially like primary resources. So we're probably be looking at like, you know, what things,
+
+Speaker 3 (09:43):
+Um, all right. Um, I don't know if this is anything, but there's this, um, there's the website for the lib classics books, which are just literature, Rican, Roman literature, and excess with anything that is not even coming in from an institution. Access tends to be quite iffy. So I have been sometimes being unable to get at that kind of content. He just won't let you access the effects of the books. Um, but otherwise, I mean, I guess I've been lucky. I haven't really had something specific that I was looking for gets subtracted to me because when, even when I wasn't able to access something online, I was usually able to find it in paper somewhere else. But, um, yeah, more, I mean more digitalization of literary resources and I think graphic resources would always be good.
+
+Speaker 1 (10:36):
+Yeah. Um, do you, um, do you ever share your findings with other people? Like, do you, how do you mean? Yeah. Um, I guess, do you ever like do kind of, um, group projects I guess, or like, you'd know you like need to find something or you're just doing some research and you decide to like, you see something and you think it might be an interesting thing for someone else and you decide to give them that information. Or
+
+Speaker 3 (11:09):
+So, I mean, when I've come across an article or a topic that I I'm aware might have some relevance to some of my friends that are studying the topic, I will forward it or send it along. But I guess because so much of the research that we do, we so hyper-specific and like hyper narrow, it doesn't happen all that often. Um, so I don't, I don't do, I know that for instance, a FIA does a lot of sort of like, um, public access work and stuff like that. Um, for what I do, it doesn't really work that well because it's mostly like literary resources and just text-based inscriptions that are very specific in topics. So they don't really hold a lot of general interest until you're studying, unless you're studying that topic. Um, but occasionally, you know, there's a bit of interchange. I remember asking other people who worked with inscription databases for help when I wasn't getting at something.
+
+Speaker 3 (12:02):
+So that kind of stuff like mutual support, but not really group projects. No. Um, have you ever tried to like create a, a graph or like a map or some kind of data visualization, um, for your, for your studies? Um, exactly. Once in the chapter that I'm currently working on and that's just been the very basic, like trying to have a pie chart in word through itself. And I was, I'll admit that I struggled a bit with that because again, it's the first time that I'm doing a quantitative study of anything cause they come from, um, more literary backgrounds. So I'm not used to dealing with numbers. Um, I, I think I eventually managed to create just some very like basic, um, bar charts, but yeah, it wasn't, it was all very, I definitely asked, um, I asked a few for some tips. I didn't, I'd never had to do it before, so, um,
+
+Speaker 2 (13:02):
+Was there, um,
+
+Speaker 3 (13:06):
+I'm sorry, I'm just reading my questions. You answered them all in one. Sorry. That's good. I'm efficient. And I don't even know about it. That's great. Um, do you think that anyone would benefit, um, from seeing your data on a map, like,
+
+Speaker 2 (13:31):
+Um,
+
+Speaker 3 (13:33):
+On a map, um, potentially it would have to be someone who was specifically looking at like the religious activity of slaves, but I mean, in, in that case, yeah, maybe. Sure. Cause I'm working on the chapter that I'm working on now is actually divided by region. So that would be one case where it wouldn't be helpful to, um, to visualize it on a map probably. Um, so yeah, I guess so. Yeah. Um, so, um, do you think there's like any information that I need that I haven't asked you or like, do you think,
+
+Speaker 2 (14:14):
+Um,
+
+Speaker 3 (14:17):
+I'm trying to think. I, you can probably tell that I'm not super well up on like online databases and resources. I know that, I know that there's a lot of work being put into it in, um, there's a specific language that is being used to code like epic graphic databases, which I don't remember the name for. So if I think of it, I'll send you a link to it. But I know that, um, there's this one girl, um, that's, um, that's sort of doing this as her project and she's based in Oxford she's um, she's kind of,
+
+Speaker 1 (14:54):
+It has
+
+Speaker 3 (14:54):
+A specific name. I'll definitely like, look it up and I'll send you the information, but that's the only thing that's come up in recent memory that has to do specifically with online resources.
+
+Speaker 1 (15:03):
+Okay. Um, yeah, I think that's, that is it. Um, thank you.
+
+Speaker 3 (15:15):
+No problem. My pleasure.
+
+Speaker 1 (15:16):
+Awesome. Um, yeah. Well, it was nice seeing you, I'm talking to you
+
+Speaker 3 (15:22):
+In a long time.
+
+Speaker 1 (15:25):
+It's also nice seeing someone cause I like, I don't know. I see em at a lot, so it's nice to see like people who I don't see, like, especially during the pandemic, I guess I'm like, look it's.
+
+Speaker 3 (15:39):
+Yeah, definitely. I've been locked in for two weeks now and it's been because of quarantine and travel and whatnot and it's been glorious weather and I've just been stuck inside with nothing to do a couple of days ago. Um, my new flat mate moved in, so that's been great, but before it was just kind of like all my own inside gorgeous days, nothing to do. So this is like, this is great. I'll take it. I hope I can come back to Canada someday and just hang out again. That'd be great.
+
+Speaker 1 (16:09):
+That would be fun. Well, one of these days I have to go over to Edinburgh C CSO, please do. All right. All right. Thank you.
+
+Speaker 3 (16:23):
+If I can help, help other people. That's great. That's a good rest of your day. You too. Bye bye.
+

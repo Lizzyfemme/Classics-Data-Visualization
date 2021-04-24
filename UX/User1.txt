@@ -1,0 +1,192 @@
+Speaker 1 (00:02):
+You just record, uh, so that you can refer to the notes, um, afterwards and kind of do, um, um, with are called personas. So you try to like, get a good feeling for the user, just to make sure that you like understand what's going on. It's like a normal part of UX develop.
+
+Speaker 2 (00:24):
+Um, that sounds good. Find there was one site that is, um, useful in a lot of ways, and I couldn't remember what it was called, but like, those kind of give you an idea, like, um, and I can, like, I, and I had actually talked through with Alice sort of what my idea for the design of it would have been. Um, and I can like, sorry, I was just out for a super long walk and I forgot to draw the thing, but yeah, very simple kind of sketch, but like those kinds of do something similar where they, they definitely, um, pull through a Google maps sort of interface to like show you like here on the map and then there's things too that you can click or that it's visualizing that. Yeah. Okay. Um,
+
+Speaker 1 (01:14):
+So, um, so one of the things they ask, well, one of the things that you normally ask is like what devices you use, um, studying. So like, are you on your phone? Are you on your laptop? Do you have an iPad? What do you
+
+Speaker 3 (01:29):
+Do? Okay. I use all three.
+
+Speaker 2 (01:32):
+I use my, um, iPad actually quite a lot for research and, um, as a second screen and also phones because the, um, a lot of the, not the apps that are for our field of study, they're not really good on, on apps, but like book searches, all that stuff you can do on your phone. So yeah, you actually do use all of them.
+
+Speaker 1 (01:57):
+Okay. Um, um, when you're going to, um, the sites that you use to, um, research, is there any like, um, difficulties when you try to access information? Like what, what happens? Yeah.
+
+Speaker 2 (02:18):
+So with, and I'll send you links to these. So you have a sense of what I'm talking about, but they're so classic is people use tons of databases that are online and free of, for a pig gruffy, and then like, uh, databases for like a visual databases for like pottery or something. And to me, the pro the really frustrating part is when you are trying to use these databases, they have such specific and kind of elusive ways of searching for things. And what you get back is almost to me often irrelevant in most cases. And like, I know it's probably like the nuance of the user. If you used it all the time, you'd probably be very good at it. But like the fact that I can come to a website multiple times and do it wrong, seems insane. Like, and I think they often will give guidance on like our, our, like the homepage landing page. And then you'll like click on a thing to search the database or whatever. And honestly, like, there should just be like, on that page, like, here's a visual example of what you should do if it's going to be that complicated. Like, it's just infuriating. Sorry. That's my rant.
+
+Speaker 1 (03:37):
+So yeah, the databases are just super busy. Um, so it sounds like there was data that you wanted to look at, but were unable to do. So, which was going to be my next question. Um, do you, for like the visual databases, how, how are they like doing it? Like, how are, do you have a feeling for how they're organized? Yeah.
+
+Speaker 2 (04:08):
+So I'll send you, I'll send you the link to the, the least, the least bad epigraphic one. And then the,
+
+Speaker 1 (04:18):
+So the most one too, you might as well.
+
+Speaker 2 (04:21):
+And oh, and another treat is that they're always in another language like Italian or German or French or something, awful things. So like, that's fun. Um, but yeah, so I think a good example that it's still not good, but it's like, it is a very comprehensive database that tons of classes as used as the Beasley archive database. And it's basically, they try to take all or much of the known pottery and art on pottery of the ancient world and put it in a database so that if you're looking for like Aphrodite, you just put her name in and then you get a ton of Aphrodite. And the problem is though, it's not all images, so you might just get texts. And you're like, well, okay, so database, I get why they put entries. If they don't have examples, even cause they obviously know an example exists.
+
+Speaker 2 (05:18):
+But to me it boggles the mind that you would, I don't know. It just doesn't make sense. Like, don't include it if you don't have a picture. Um, but, uh, yeah, so there's some of the ways that they're sorting the information, it'll be by, um, region typology. So like what type of vessel does this piece come from? Is it a whole vessel or is it just a fragment? Uh, then they'll sort it by date range. Um, if they know the painter, if they know the city that produced it, if there's something special about, um, if it's a type of clay, I don't know, like who knows, right. Like that kind of thing. And then do, um, thematic categories. So it'll be, you know, within hope, like fairly regimented, um, types of, of, of, um, topics. So you can get something like sex and that will include maybe erotic sex it'll include, suggested sex or violent erotica or stuff like that. So it'll try and without overwhelming the system with too. Cause I mean, it's, it's, there could be infinite options, so it's, it's tries its best.
+
+Speaker 1 (06:33):
+Um, and when you're after you sort of like gathered some information, do you tend to share what you find with other people? Like how
+
+Speaker 2 (06:45):
+I don't think you would, so you would not be going on there for reasons beyond probably your research. Um, if you were giving a conference than the images you were able to. Oh, and also there's like, you can't use images, blah, blah, blah. So there's there's issues. Um, I mean you can show them, but like you have to obviously credit it. So that's where the, where you got it from would be credited if you were at a conference using the images. Um, and then whatever museum owns the copyright of the images. You, if you wanted it in a book, that's, that's how you would do it. I don't know any other reason you would have to share like you wouldn't on social media ever share any of that information? Yeah,
+
+Speaker 1 (07:28):
+No, I was thinking more of like for academic purposes, if you were like talking to some peers or whatever, doing like, I don't, I know that your thesis is not a group project, but if you were doing some sort of group thing or I don't know, there
+
+Speaker 2 (07:42):
+Is Brianna and I eat, uh, we created a seminar one day that we gave to St. Andrew's where it was like online resources for classic students, because a seminar like this did not exist and it was like free. And it was just sort of like a thing we came up with and we just compiled a whole variety of websites to use for certain types of questions you might have, um, and showed people like how to use them, what they were about. And the school took that idea and did their own version of it, which didn't involve us, which was a delight. Um, but, uh, it was a great school. Um, but yeah, so like that is probably the most as the only really other way I can imagine this is, would be community like that kind of thing would be communicated. Okay. Um, unless, sorry, unless the development of said website was part of a project, like visualizing war project, in which case they would, um, use the schools, um, outreach and public engagement media channels. And they would promote that, like that would become something, they say this project was developed under the auspices of our program and this is why we think it's relevant and here's the beta version, or here's the earliest version, you know, if you want to contribute blah, blah, blah, like it could become a marketing tool for the project slash university in a way. And they probably would put the effort into advertising, something like that because useful.
+
+Speaker 1 (09:18):
+Okay. So are there any other, um, or, well, I guess, have you ever tried to make a graph or like map or do some sort of like data visualization with data that you've found previously? Yes.
+
+Speaker 2 (09:35):
+Um,
+
+Speaker 1 (09:36):
+Well, how, how did you go about doing that? Like what did you, what tools did you use, did you,
+
+Speaker 2 (09:43):
+So I have used, uh, illustrator to make maps, um, Google earth to make maps. Um, I am currently teaching myself Q G I S to make maps, um, because they are more scientific. Um, the interface for making maps to show this sort of thing would be probably like, I think, because with, with Google maps, you can do things like plot, all the points you want, and then you can export that into a CSV file. And then that can be the basis of how you're, you're plotting these things. And then you can use an interface that uses Google maps. So then, you know, that kind of does a lot of the work for you in a lot of ways. Um, so that's pretty, those are pretty much the only ways I think I would've done that Excel spreadsheet for graph. Yeah. Okay.
+
+Speaker 1 (10:45):
+That's all right. There's nothing. If Excel will do what you needed to do, there's no reason not to use it. It's like
+
+Speaker 2 (10:52):
+The problem though. Like I've had to do all these different things and none of them have really done what I wanted them to do. So try
+
+Speaker 1 (11:00):
+What, um, what's an example of something that you wanted, but you weren't able to accomplish.
+
+Speaker 3 (11:06):
+So,
+
+Speaker 2 (11:08):
+And if I could ever get you to do this project with me, with my research, that blows my mind. Um, but I was trying to map, uh, your,
+
+Speaker 1 (11:16):
+Your, your stuff is going into this project. I don't have a guarantee for a timeline, but I, yeah, it'll, it'll get put in. It's like ISIS stuff. Sure. Why not? It's like classical. Why? Like I don't. Yeah, it's good. Um, yeah, I guess now, like, uh, that's part of the thing like, right, is, you know, it's not, um, it's not Dr. Alicia's, um, like, you know, like it's not her thing anymore, so it's gonna be like what we want it to be like, I don't know the world's your oyster let's like, so yeah, just data visualizations, like, you know, I'm more interested, like I'm more interested in facilitating your research. I like Ambra and, and, uh, Brianna, and so like, um, I want to hear what they're, I'm trying to identify gaps. So like, if you like, w w if you're trying to do something and you have a picture in your mind, but you can't get to the end point because you don't know how that's like, that's what I'm trying to fill.
+
+Speaker 1 (12:36):
+And like, I, you know, I think, I think maps are very interesting. I'm 100% willing to do maps, but if there's other ways to visualize the data, but, you know, that would be better, um, or like more useful. I'm also like, open to that. Um, yeah. And so there's, there's other things too, like you just met in the, whatever the Beasley website or whatever, like the databases. So now that you've, you know, the databases that you send me, I will check and see if there's an API, which is, which is normal, because if there isn't API, then there's a lot less data entry. So like an API is a way for web states to share information between them. Yeah. So think
+
+Speaker 2 (13:18):
+One of the ones I've sent, you says it does that or something. Okay.
+
+Speaker 1 (13:21):
+Yeah. I mean, I'll take a look and see what the developer information is.
+
+Speaker 2 (13:26):
+Yeah. I mean, like for my, for my own intents and purposes, like what I would ideally love to be able to do with my research, because I've gathered so much stuff is show like, like sites where like, obviously I can map out where all the Egyptian called sites are in the Roman empire or wherever I can do that. It's a lot of work, but I'll do it. But what there's so many other interesting things that you, it would be neat to, like, which ones use black marble for they're called statues, which ones have, you know, these types of inscriptions, which one, you know, like all those sorts of things where it would be really interesting to see and then be able to extract like those types of huge data. And that would have zero bearing on the project itself. Like, cause obviously it's not related to warfare. It's not related to conflict necessarily. Um, so yeah, they're not related, but like, I think, I think what is what Alice's idea and what she's trying to like, what she would ideally try and get out of it is showing like there's all these connections and unconventional relationships potentially between all these things. And I think that process would equally useful to me. Like it's, it's not the content, like if the topic isn't relevant to me, but the approach makes a lot of sense. Yeah.
+
+Speaker 2 (14:51):
+So, yeah. Anyways, um, yes. Tried visualization.
+
+Speaker 1 (15:02):
+Um, so I do, I do want like, uh, some of your citations, so if you would send them to me, that would be great. What do you mean citations? Any of your primary stuff for your thesis? Like your primary resources for your thesis? I don't think that you list them in that way, but just look at like what
+
+Speaker 2 (15:24):
+I meant, like how it's written out or
+
+Speaker 1 (15:27):
+So the, the, the reason why I'm asking this question is so that I can, I can take a look and like, see, well, a, so if I can, I can get more familiar with the actual format, because part of, part of my, like, part of the things that I want to do is I do intend to make, I will get the system to like output, um, you know, citations. So like, if you haven't filtered it,
+
+Speaker 3 (15:52):
+Pardon sort of like a ref works,
+
+Speaker 2 (15:55):
+Um, uh, add on or like,
+
+Speaker 1 (15:59):
+Yeah. So that you can click. If you're looking at them, if you have stuff, some filters out and you're looking at, at some information you could, you could click onto a different screen or like click a tab and you would, you would get the, the, yeah. The references of the, all the data points. Okay.
+
+Speaker 2 (16:17):
+So what can you give me permission to share your screen? I can share my screen with you.
+
+Speaker 1 (16:32):
+I don't know how to, how do I even
+
+Speaker 2 (16:34):
+Click off participant and more? Yeah, go more and then this should be letting you, I think if you can either make me the host or, or share screen. Yeah. Yeah. There we go. Two things here. So I just show, I'll just show you what I'm, what my understanding of what you're saying is, or what I have. And then you can tell me if that's actually what you want or if it, if you, you think it's something else that you need. Um, so
+
+Speaker 3 (17:30):
+That was the last one. Nope. That's that's wrong.
+
+Speaker 4 (17:40):
+There we go. Okay.
+
+Speaker 2 (17:43):
+The only thing with zoom that I find annoying is like, it doesn't just like, let you share the screen. You have to pick which ones you want to share. Stupid. You can share desktop, like everything. I did not know that. And I am the full same. I can't share. Let's try that again. I'll stop about with things.
+
+Speaker 4 (18:21):
+I'll get it. There we go. There we go.
+
+Speaker 2 (18:27):
+You stunt. Okay. So this is one of my, this is my spreadsheet. I've started to use a reference work software program to try. And so I don't spend eight hours every time I need to put a bibliography together. Um, so this is sort of the format that I've gotten them in. Um, there's also, which then translates to this. There's not a con there's a few different style guides obviously, but is this the kind of thing you're looking for?
+
+Speaker 1 (18:57):
+Like yeah. That kind of thing. I mean, I'm looking specifically for like their primary sources, but yeah. Like primary
+
+Speaker 2 (19:04):
+Ones. So like the, the, yeah. So what, what would happen is, um, the, I don't even know if I have any primary source, you know, probably not. Um, they will come in weird forms, so, uh, you could get C I L X V one, one, one six equals LLG dah, dah, dah, dah, dah, dah. And that's the citation for that source. So it'll come, but they're all going to be so different because, um, they get developed by different countries at different times and all that, and you have to kind of keep them, um, and then with classical text, which a lot of these sources are going to be to, um, for conflict, especially like people love writing about war. Um, it'll be actually, I can send you that, which is the Harvard or the Oxford style guide for classical writers. And it basically has a list of every ancient writer and then how they're they're cited. So that's a good one. I could send you that because it's quite short and pithy because it's like, well, we know there was only one guy with this name and he wrote this book. Um, so it's all the secondary sources are the, obviously the, the, the longer ones. Um, but it doesn't sound like you, you would be needing that. So, no, I mean the
+
+Speaker 1 (20:25):
+Secondary sources too. Yeah. They're not really what, what, um, okay. Okay. Um, in this chat, um, so before we were talking a little bit of like, um, artifacts, citations, um, and, uh, you mentioned like every item will have an number and I just, I is the combination of inventory number and museum unique or all the inventory numbers Musique unique.
+
+Speaker 2 (20:58):
+No, so it will. Yeah. So who, yeah, that's tricky. Um, two seconds. Let me send that to you right now. Cool. Yeah. So what you, you would get is it would have to be museum name. So let's say the Capitol line museum in Rome would be Museo Coupa, Delani, Romani, or something like that. That's it's there. The, but what they would attribute to the, um, the artifact will be something like IVM usually is how I shorthand inventory number and then some number, but like a gazillion, other artifacts could have that same number because different museums will have run through similar things. Um, but everybody kind of uses unfortunately different. Um, some will use tripartite numbering system. So it'll be the, the year they got it to the museum, the not month, a year, um, the batch number. So cause they might get lots of things all year. So you batch number and then object number. So others will just use a stupid, like, like there's a lot of ISIS statues because people started finding these at the time museums were being built. So there'll be like four, four, six. So yeah, you're going to get a hodgepodge of things.
+
+Speaker 1 (22:18):
+Okay. Um, that's cool. Um, but yeah, no, I just, um, you know, like, and if it's like museum and number, make a unique code, like we can, like, that can be captured. I just like, yeah. Um, yeah, to
+
+Speaker 2 (22:36):
+Decide if you're going to give it an English. Because when I say in my text from a museum's, whatever I use the, if the museum's name is Italian, I put the Italian name though. You could easily say the archeological museum of Naples that is valid. You could do that too. And that might be more accessible, more clear if, or like, I guess what I'm saying is you can for yourself be consistent or you can kind of use whatever they call themselves.
+
+Speaker 1 (23:08):
+Um, okay. And if there was the, my last question for you is going to be, if you had a magic wand and you could make this website anything, or do anything you needed to, what would you make it do? Well, I guess that's, so if it's,
+
+Speaker 2 (23:25):
+If it's going to be something for visualizing war, then it would be something that allows you to type in some for war and things pop up and you see whatever, if it's a site that is basically a tool site for scholars who have projects like visualizing war or have like I do, or, um, if that's its intention, then that opens up like a myriad of possibilities. And it would be really interesting to be able to feed in things like in the way that Q GIS and GIS lets you feed in data and then it maps it and you can do certain things with that information. But it's so complicated to learn that software that it's, it's quite a prohibitive in a way, but if, if there was even something at a basic level that allowed you to, you know, put in data points, um, or, okay, I guess it's hard to sort of structure my answer. I don't know the, the sort of end game of what it is you are thinking about building.
+
+Speaker 1 (24:43):
+So I'm not, I mean, I guess when you were getting paid to do stuff, I w I wasn't going to go on this journey of exploration, but you're not getting paid to do stuff. So I'm, I'm on a journey of exploration, like, um, uh, you know, like, uh, I'm looking for gaps. Like if you're finding it frustrating to use something and you want it easier like that, that's the kind of information I want. So like, yeah. I mean, we did, uh, we did some more stuff and it was cool. I'm not, but I'm not like I'm not passionate about classical warfare. Like it doesn't like, you know, like for me, this is more about, uh, it's more about going through a real process of making software that is useful. Okay.
+
+Speaker 2 (25:34):
+So if you're looking at basically if somebody like Alice has a bunch of data and wants to figure out a way to present it, it's more, you're more about like, or, or me wanting to present mine. It's more about the facilitating, the presentation of that is that sort of what,
+
+Speaker 1 (25:50):
+Yeah. Um, yeah, so I'm, um, I'm trying to understand exactly like w w um, what you're not able to do currently is really important to me. And like, um, you know, and, and yeah, I do want, I do want multiple people to be able to use it. Like, I, I don't, I guess in my mind, right now I'm envisioning something that's a little more like a Wikipedia style or kind of format where, you know, like, they'll, there'll be some data there that other people have put in, people can put in their own data and like, kind of contribute to building the database and then, you know, do the thing. But if there's an API already, like, so if, if I can attach to a database and like, do something, then, you know, I might, that, that might be more beneficial if I can pull data. Um, I can, it's possible that I could pull data from like multiple places too. So like, you know, um,
+
+Speaker 2 (26:50):
+Okay. So definitely check out trismus, Magus dose, I think is the link I sent you. Yeah. I think that's your good starting point. Um, yeah, I think this is something I've talked about with Brianna as well. Um, but I think
+
+Speaker 3 (27:06):
+For me, who's interested
+
+Speaker 2 (27:09):
+In material culture in classical art and stuff like that if I were to be, so I'm definitely more keen for like Mt. Visualizations, um, most, and they can be heat spots. So like, like big circle equals lots, little circle equals last, something like that. Yeah, that's fine. But
+
+Speaker 1 (27:25):
+Terraform would be difficult to do in this case. Cause you'd have to map out this dates and stuff like it. So, I mean, that would get, that would get pretty. I feel like I could like find a city on a map and then figure out exactly where that point is on Google map and like get a Latin long. But yeah, like getting, getting a state to kind of be the right shape and stuff like that, it's going to be difficult. Oh yeah, for sure. I'm thinking like, yeah.
+
+Speaker 2 (27:56):
+For, for me, what an incredible resource would be just for my own interests is there's nowhere. I can really look to see ISIS Dutch use and not just, just some of them, but like all of them and where they are and where they were from. And you know, all that information. Like there's no good visual database that does stuff like that for sculptures or that for, um, like the Beasley one tries to a little bit, but like even still, and then, so it'll have those things, but it doesn't give you any visualization opportunity. So it's not like you can say ice statues and a map comes up, which is sort of what I've been doing, but like, haven't really finished, but like where a map comes up and you're like, okay, that's interesting. But that dah, dah, dah, dah, or you say ISIS statues, black marble and all the black marble ones come up in and show you on the map or Aphrodite with Cupid, all those come up. Like there is something that there's arguably something there in terms of networks of trade and connectivity that certain ones show up in certain places. No question. There's gotta be a reason. And usually it's because of people. Um, so well, and only because of people. So to me, that's, that is an absence in the way that we can look and try and find things like that. And even Brianna, after she handed in her thesis was still finding Aphrodite statue. She didn't have access to or know about. And she's an expert. So
+
+Speaker 1 (29:29):
+Was kind of the things that
+
+Speaker 2 (29:30):
+Like, especially for art historians, which you effectively are too, like if you're trying to, to write the, like the book on Aphrodite statues or statutes, or just even get a sense of like what CA which communities in Greece used, which types, or, you know, like there's so much, you can learn from that, but that is so hard to figure out. So that's just my 2 cents.
+
+Speaker 1 (29:58):
+Um, yeah. Awesome. Well, that, that was bad. How are you doing? I'm good. Um, yeah.
+
